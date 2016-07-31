@@ -14,3 +14,4 @@ _G["BINDING_NAME_CLICK ProximoTarget2:RightButton"] = L["Tar2Right"]
 _G["BINDING_NAME_CLICK ProximoTarget3:RightButton"] = L["Tar3Right"]
 _G["BINDING_NAME_CLICK ProximoTarget4:RightButton"] = L["Tar4Right"]
 _G["BINDING_NAME_CLICK ProximoTarget5:RightButton"] = L["Tar5Right"]
+## HGEY YO!! TEST##
